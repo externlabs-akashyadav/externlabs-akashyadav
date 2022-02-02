@@ -2,7 +2,6 @@
 #### I am a fresher and working with https://externlabs.com/ right now
 .
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=externlabs-akashyadav&theme=dark&show_icons=true)
-.
 I really enjoy learning languages and frameworks like JavaScript and Node. I am enjoying my journey in software development. You can check out my LinkedIn - https://www.linkedin.com/in/akash503yadav/
 
 Skills: C / PYTHON / JAVASCRIPT / NODE/
